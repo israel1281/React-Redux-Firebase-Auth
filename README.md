@@ -1,7 +1,5 @@
 # react-redux-firebase-authentication
 
-## Variations
-
 
 ## Features
 
